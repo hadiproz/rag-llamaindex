@@ -1,0 +1,12 @@
+# Core dependencies
+python-dotenv
+
+# LlamaIndex dependencies
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-openrouter
+llama-index-vector-stores-faiss
+
+# AI/ML dependencies
+faiss-cpu
+sentence-transformers
